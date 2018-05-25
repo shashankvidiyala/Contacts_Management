@@ -23,6 +23,15 @@ Contacts.vcxproj.filters
 
 Contacts.cpp
     This is the main application source file.
+Authentication.h
+	Serves the role of authentication of user(sign in) and adding user to db(sign up)
+Server.h
+	Here two major operations are done push and pull just  like the git vcs which can be 
+later scaled to be synchronized
+Head.h
+Contact_utils.h
+menu_utils.h
+
 
 /////////////////////////////////////////////////////////////////////////////
 Other standard files:
