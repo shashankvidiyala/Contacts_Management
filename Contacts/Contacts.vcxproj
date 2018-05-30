@@ -85,6 +85,7 @@
     <ClInclude Include="global.h" />
     <ClInclude Include="head.h" />
     <ClInclude Include="menu_utils.h" />
+    <ClInclude Include="myvector.h" />
     <ClInclude Include="server.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="string_utils.h" />

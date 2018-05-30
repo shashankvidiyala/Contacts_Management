@@ -1,4 +1,5 @@
-std::vector<MyStruct> local_cache;
+
+vectori<MyStruct> local_cache;
 //node creation and initialization
 trie *createNode() {
 

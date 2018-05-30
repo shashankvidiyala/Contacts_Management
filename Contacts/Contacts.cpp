@@ -12,7 +12,7 @@
 #include <errno.h>
 
 #pragma warning(disable:4996)
-
+#include "myvector.h"
 #include "global.h"
 #include "db.h"
 #include "server.h"

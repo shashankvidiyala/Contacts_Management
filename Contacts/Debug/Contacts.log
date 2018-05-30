@@ -1,4 +1,4 @@
-﻿Build started 25-05-2018 09:24:35 PM.
+﻿Build started 30-05-2018 11:11:05 PM.
      1>Project "E:\updatedcontacts\Contacts\Contacts\Contacts.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Contacts.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Contacts.cpp
@@ -13,10 +13,10 @@
      1>e:\updatedcontacts\contacts\contacts\string_utils.h(45): warning C4018: '<' : signed/unsigned mismatch
      1>e:\updatedcontacts\contacts\contacts\string_utils.h(50): warning C4018: '<' : signed/unsigned mismatch
      1>e:\updatedcontacts\contacts\contacts\string_utils.h(52): warning C4018: '>=' : signed/unsigned mismatch
-     1>e:\updatedcontacts\contacts\contacts\contact_utils.h(162): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\updatedcontacts\contacts\contacts\authentication.h(24): warning C4715: 'isvalid' : not all control paths return a value
-     1>e:\updatedcontacts\contacts\contacts\contact_utils.h(157): warning C4715: 'mark_trie_name_delete' : not all control paths return a value
+     1>e:\updatedcontacts\contacts\contacts\contact_utils.h(163): warning C4018: '<' : signed/unsigned mismatch
      1>e:\updatedcontacts\contacts\contacts\server.h(175): warning C4715: 'send_request' : not all control paths return a value
+     1>e:\updatedcontacts\contacts\contacts\authentication.h(24): warning C4715: 'isvalid' : not all control paths return a value
+     1>e:\updatedcontacts\contacts\contacts\contact_utils.h(158): warning C4715: 'mark_trie_name_delete' : not all control paths return a value
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\updatedcontacts\Contacts\Debug\Contacts.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\updatedcontacts\Contacts\Debug\Contacts.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\updatedcontacts\Contacts\Debug\Contacts.lib" /MACHINE:X86 Debug\Contacts.obj
          Debug\stdafx.obj
@@ -25,4 +25,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:08.56
+Time Elapsed 00:00:01.82
